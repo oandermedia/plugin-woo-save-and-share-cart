@@ -1,0 +1,88 @@
+{
+   "domain": "messages",
+   "locale_data": {
+      "messages": {
+         "": {
+            "domain": "messages"
+         },
+         "We love humans!": [
+            "Szeretjük az embereket!"
+         ],
+         "Cart link copied to clipboard": [
+            "Kosár hivatkozás vágólapra másolva"
+         ],
+         "Email Cart": [
+            "Kosár küldése"
+         ],
+         "Must be 50 characters or less": [
+            "Maximum 50 karakter"
+         ],
+         "Required": [
+            "Kötelező kitölteni"
+         ],
+         "Email address": [
+            "E-mail cím"
+         ],
+         "Email to whom you want to send cart": [
+            "Kinek küldjük el a kosarat?"
+         ],
+         "Email Title": [
+            "E-mail fejléc"
+         ],
+         "Email subject": [
+            "E-mail tárgy"
+         ],
+         "Back": [
+            "Vissza"
+         ],
+         "Submit": [
+            "Elküldés"
+         ],
+         "Cart Name": [
+            "Kosár neve"
+         ],
+         "Remove Cart": [
+            "Kosár eltávolsítás"
+         ],
+         "There are no saved carts to display.": [
+            "Nincsenek megjeleníthető mentett kosarak."
+         ],
+         "Are you sure you want to delete this?": [
+            "Biztosan töröljük?"
+         ],
+         "Cancel": [
+            "Mégse"
+         ],
+         "Save Cart": [
+            "Kosár mentése"
+         ],
+         "Cart Title": [
+            "Kosár címe"
+         ],
+         "Cart Description": [
+            "Kosár leírása"
+         ],
+         "Copy cart link to clipboard": [
+            "Kosár link másolása vágólapra"
+         ],
+         "Email this cart": [
+            "Kosár elküldése"
+         ],
+         "Share on Facebook": [
+            "Megosztás Facebookon"
+         ],
+         "Save the cart": [
+            "Kosár mentése"
+         ],
+         "Share cart on Skype": [
+            "Kosár megosztása Skypeon"
+         ],
+         "Share cart on Twitter": [
+            "Kosár megosztása Twitteren"
+         ],
+         "Share cart on WhatsApp": [
+            "Kosár megosztása WhatsAppon"
+         ]
+      }
+   }
+}
